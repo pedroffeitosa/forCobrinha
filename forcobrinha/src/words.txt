@@ -1,0 +1,10 @@
+#
+fruta
+acerola
+banana
+uva
+#
+cor
+azul
+amarelo
+verde
